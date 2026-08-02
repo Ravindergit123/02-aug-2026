@@ -1,6 +1,6 @@
 # Local .terraform directories
 .terraform/
-
+terraform-provider-azurerm_v5.0.1_x5.exe
 # .tfstate files
 *.tfstate
 *.tfstate.*
